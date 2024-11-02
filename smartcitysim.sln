@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smartcitysim", "smartcitysim\smartcitysim.csproj", "{49E438A4-F20C-4A38-B0DF-A077CACEE7DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E438A4-F20C-4A38-B0DF-A077CACEE7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E438A4-F20C-4A38-B0DF-A077CACEE7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E438A4-F20C-4A38-B0DF-A077CACEE7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E438A4-F20C-4A38-B0DF-A077CACEE7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7348C659-C024-4473-BDC8-F3814B6D9DC1}
+	EndGlobalSection
+EndGlobal
